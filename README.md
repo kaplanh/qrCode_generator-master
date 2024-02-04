@@ -35,30 +35,9 @@
 - API's
   - [Random User API](https://randomuser.me/api)
 - HTML
-  - font-awesome
-   ~~~html
-        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.1/css/all.min.css"
-        integrity="sha512-KfkfwYDsLkIlwQp6LFnl8zNdLGxu9YAA1QvwINks4PhcElQSvqcyVLLD9aMhXd13uQjoXtEKNosOWaZqXgel0g=="
-        crossorigin="anonymous" referrerpolicy="no-referrer" />
-   ~~~
-  
-- Css
-   - linear-gradient
-   - box-shadow
-   - transpyrent
-     ~~~
-      background-image: linear-gradient(135deg, #fcfcfc, #ffffff);
-      box-shadow: rgba(0, 0, 0, 0.4) 0px 2px 4px, rgba(0, 0, 0, 0.3) 0px 7px 13px -3px, rgba(0, 0, 0, 0.2) 0px -3px 0px inset;
-     .btn {
-            background-color: transparent;
-          }
-     ~~~
-
 - Css
 - JS  
-   - fetch API        
-   - async-await
-          
+   - fetch API                  
   
    - DOM Manipulations
       - innerHTML
@@ -68,12 +47,8 @@
       - querySelector  
     
     - Events
-        - click
+        - submit
  
-
-
- 
-
 
 ## Feedback and Collaboration
 I value your feedback and suggestions. If you have any comments, questions, or ideas for improvement regarding this project or any of my other projects, please don't hesitate to reach out.
