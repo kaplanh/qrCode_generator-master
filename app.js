@@ -18,7 +18,7 @@ frm.addEventListener("submit", (e) => {
 //? QR CODE OLUŞTUR
 const createQR = (talep) => {
   fetch(
-    `https://api.qrserver.com/v1/create-qr-code/?size150x150=&data=${talep}`
+    `https://api.qrserver.com/v1/create-qr-code/?size150x150&data=${talep}&&color=0-0-255`
   )
     .then((response) => {
       if (!response.ok) {
